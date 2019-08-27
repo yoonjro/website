@@ -18,11 +18,11 @@ organizations:
   url: "https://economics.ucr.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include drinking, marijuana and education.
+bio: My research interests include.
 
 interests:
-- getting a job
-- drinking
+- Labor Economics
+- Economics of Education
 - not doing research
 
 education:
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. candidate in Economics at University of California, Riverside. My research interest lies in Labor Economics and Economics of Education.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I will be available for interviews at the 2020 AEA/ASSA Annual Meeting in San Diego, CA.
