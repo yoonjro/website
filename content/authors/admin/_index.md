@@ -23,11 +23,10 @@ bio: My research interests include.
 interests:
 - Labor Economics
 - Economics of Education
-- not doing research
 
 education:
   courses:
-  - course: Ph.D. Candidate, Economics, 
+  - course: Ph.D. Candidate, Economics
     institution: University of California, Riverside
     year: 2014-2020(Expected)
   - course: M.A., Economics
